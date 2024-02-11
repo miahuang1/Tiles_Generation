@@ -1,6 +1,4 @@
 # Tiles_Generation
-
-# Map_Design_and_Tiles_Generation
 Wenjing Huang \
 GEOG 458, Lab 4 Map Design and Tiles_ Generation
 
