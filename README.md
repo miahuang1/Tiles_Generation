@@ -15,7 +15,7 @@ GEOG 458, Lab 4 Map Design and Tiles_ Generation
 ![swimming beach](img/swimmingbeaches.png)
 - Examined geograpghic area: Focus on Seattle Washington (-122.2559435, 47.6002614) and neighboring area
 - Available zoom Layers: Max -10 and Min -7
-- Decription of tile set: Data shows locations of life guarded swimming beaches that are managed by Seattle Parks. Does not include all beach locations within the City of Seattle. The life guards are on duty only during the summer.
+- Decription of tile set: Data shows locations of life guarded swimming beaches that are managed by Seattle Parks. Does not include all beach locations within the City of Seattle. The life guards are on duty only during the summer. Also, I use the data for Seattle GeoData.
 
 ### Tile 3: Basemap and Swimming Beaches
 ![basemap and swimming beach](img/basemapandswimmingbeaches.png)
@@ -27,7 +27,7 @@ GEOG 458, Lab 4 Map Design and Tiles_ Generation
 ![forest](img/forest.png)
 - Examined geograpghic area: Focus on Seattle Washington (-122.2559435, 47.6002614) and neighboring area
 - Available zoom Layers: Max -10 and Min -7
-- Decription of tile set: Map layer build from Mapbox, and using the color scheme (green) to respent the theme of forest.
+- Decription of tile set: The theme I chose is nature with forest.Map layer build from Mapbox, and using the color scheme (green) to respent the theme of forest.
 
 ## Data Source
 [Swimming Beaches Data](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::swimming-beaches/about) 
